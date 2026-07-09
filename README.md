@@ -1,5 +1,8 @@
 <img src="deemon/assets/images/deemon.png" alt="deemon" width="300">
 
+> [!WARNING]
+> **This app is for personal, educational, and archival purposes only.** It is not affiliated with Deezer. Users must ensure their use complies with Deezer's terms of service and all applicable local copyright laws. Downloaded content is for personal use and may not be shared or redistributed. The developer assumes no responsibility for misuse of this app.
+
 [About](#about) | [Installation](#installation) | [Docker](#docker) | [Documentation](https://digitalec.github.io/deemon) | [Support](#support)
 
 ![PyPI](https://img.shields.io/pypi/v/deemon?style=for-the-badge)
